@@ -1,0 +1,16 @@
+color_palette: viridis
+dpi: 300
+figure_size: !!python/tuple
+- 10
+- 8
+policy_cmap: Set3
+policy_symbols:
+- "\u2190"
+- "\u2193"
+- "\u2192"
+- "\u2191"
+q_table_cmap: RdYlBu_r
+show_values: true
+smoothing_window: 50
+style: seaborn-v0_8
+value_cmap: viridis

@@ -1,0 +1,8 @@
+compute_action_distribution: true
+compute_policy_consistency: true
+compute_trajectory_analysis: true
+compute_value_convergence: true
+consistency_window: 100
+convergence_threshold: 0.01
+convergence_window: 50
+min_episodes_for_consistency: 10
